@@ -92,3 +92,9 @@ Switch
 Logical Operatoer (and, or, not)
 Looping (for, while, do...while, foreach)
 Array
+
+*** Day 7 ***
+Function
+Class
+
+
