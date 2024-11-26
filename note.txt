@@ -95,6 +95,15 @@ Array
 
 *** Day 7 ***
 Function
+File inclue/require
 Class
+
+*** Day 8 ***
+Cookies/Session
+Login Form/Logout
+Password Hasing
+
+
+
 
 
