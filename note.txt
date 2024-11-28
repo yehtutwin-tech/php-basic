@@ -103,7 +103,11 @@ Cookies/Session
 Login Form/Logout
 Password Hasing
 
+*** Day 9 ***
+File Handling
 
+*** Day 10 ***
+MySQL
 
 
 
