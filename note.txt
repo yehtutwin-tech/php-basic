@@ -105,6 +105,7 @@ Password Hasing
 
 *** Day 9 ***
 File Handling
+CURL
 
 *** Day 10 ***
 MySQL
